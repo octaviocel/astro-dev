@@ -1,0 +1,20 @@
+---
+title: Not in Love
+author: Ali Hazelwood
+img: not-in-love.jpg
+readtime: 224
+description: Ali Hazelwood is the 1 New York Times bestselling author of Love, Theoretically and The Love Hypothesis, as well as a writer of peer-reviewed articles about brain science, in which no one makes out and the ever after is not always happy. Originally from Italy, she lived in Germany and Japan before moving to the US to pursue a PhD in neuroscience. When Ali is not at work, she can be found running, eating cake pops, or watching sci-fi movies with her three feline overlords (and her slightly-less-feline husband).
+buy:
+  mexico: https://www.amazon.com.mx/Not-Love-Ali-Hazelwood/dp/0593550420/ref=bmx_dp_u15dzbkn_d_sccl_3_1/133-7597509-2437735?psc=1#customerReviews
+  usa: https://www.amazon.com/Learning-Git-GitHub-Oscar-Barajas/dp/607621319X
+---
+
+**An Indie Next and a Hall of Fame LibraryReads Pick!**
+
+**A forbidden, secret affair proves that all’s fair in love and science—from New York Times bestselling author Ali Hazelwood.**
+
+Rue Siebert might not have it all, but she has enough: a few friends she can always count on, the financial stability she yearned for as a kid, and a successful career as a biotech engineer at Kline, one of the most promising start-ups in the field of food science. Her world is stable, pleasant, and hard-fought. Until a hostile takeover and its offensively attractive front man threatens to bring it all crumbling down.
+
+Eli Killgore and his business partners want Kline, period. Eli has his own reasons for pushing this deal through—and he’s a man who gets what he wants. With one burning exception: Rue. The woman he can’t stop thinking about. The woman who's off-limits to him.
+
+Torn between loyalty and an undeniable attraction, Rue and Eli throw caution out the lab and the boardroom windows. Their affair is secret, no-strings-attached, and has a built-in deadline: the day one of their companies will prevail. But the heart is risky business—one that plays for keeps.
